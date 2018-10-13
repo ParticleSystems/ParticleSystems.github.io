@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="124.93809mm" height="82.000519mm" viewBox="0 0 442.69401 290.55302" id="svg4345" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="ems-feature-bg-right.svg">
+  <defs id="defs4347">
+    <radialGradient id="paint0_radial" cx="0.5" cy="0.5" r="0.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-891.16552,527.61236,114.85448,193.99527,915.67132,-46.551102)">
+      <stop stop-color="#1BDCBA" id="stop112" />
+      <stop offset="1" stop-color="#02ABFE" id="stop114" />
+    </radialGradient>
+    <radialGradient id="paint1_radial" cx="0.5" cy="0.5" r="0.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(663.56702,-336.43158,-154.25947,412.17049,-358.41029,594.20301)">
+      <stop stop-color="#007FBD" id="stop117" />
+      <stop offset="1" stop-color="#02ABFE" id="stop119" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="-210.08157" inkscape:cy="8.1336553" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1366" inkscape:window-height="746" inkscape:window-x="0" inkscape:window-y="22" inkscape:window-maximized="1" />
+  <metadata id="metadata4350">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-125.08157,-249.94283)">
+    <path inkscape:connector-curvature="0" style="fill:url(#paint0_radial)" d="m 215.08162,452.50463 c 0,-0.7157 0.38241,-1.37684 1.00282,-1.73368 L 564.77829,250.21207 c 1.33322,-0.76683 2.99688,0.1957 2.99729,1.73361 l -1.5e-4,82.53363 c -6e-5,0.71582 -0.3825,1.37689 -1.00315,1.73392 L 218.07869,536.7719 c -1.33333,0.76689 -2.99713,-0.19548 -2.99711,-1.7336 l 4e-5,-82.53367 z" id="path4" />
+    <path inkscape:connector-curvature="0" style="opacity:0.5;fill:url(#paint1_radial)" d="M 125.08158,453.34777 L 409.24676,288.39242 l 2.4e-4,87.14793 L 125.08157,540.49586 l 1e-5,-87.14809 z" id="path6" />
+  </g>
+</svg>

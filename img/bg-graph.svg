@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" id="svg2" version="1.1" viewBox="0 0 1440 701" height="701px" width="1440px">
+  <metadata id="metadata39">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>bg-graph</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <title id="title4">bg-graph</title>
+  <desc id="desc6">Created with Sketch.</desc>
+  <defs id="defs8">
+    <filter id="filter-1" filterUnits="objectBoundingBox" height="200%" width="200%" y="-50%" x="-50%">
+      <feGaussianBlur id="feGaussianBlur11" in="SourceGraphic" stdDeviation="1.92243304" />
+    </filter>
+    <filter id="filter-2" filterUnits="objectBoundingBox" height="200%" width="200%" y="-50%" x="-50%">
+      <feGaussianBlur id="feGaussianBlur14" in="SourceGraphic" stdDeviation="2.76227679" />
+    </filter>
+    <filter id="filter-3" filterUnits="objectBoundingBox" height="200%" width="200%" y="-50%" x="-50%">
+      <feGaussianBlur id="feGaussianBlur17" in="SourceGraphic" stdDeviation="5" />
+    </filter>
+    <filter id="filter-4" filterUnits="objectBoundingBox" height="200%" width="200%" y="-50%" x="-50%">
+      <feGaussianBlur id="feGaussianBlur20" in="SourceGraphic" stdDeviation="1" />
+    </filter>
+    <filter id="filter-5" filterUnits="objectBoundingBox" height="200%" width="200%" y="-50%" x="-50%">
+      <feGaussianBlur id="feGaussianBlur23" in="SourceGraphic" stdDeviation="4" />
+    </filter>
+  </defs>
+  <g style="opacity:0.527" fill-rule="evenodd" fill="none" stroke-width="1" stroke="none" id="Marketing-Pages">
+    <g style="" transform="translate(0.000000, -2432.000000)" id="Home">
+      <g style="" transform="translate(0.000000, 2436.000000)" id="Create-Charts">
+        <g style="" id="bg-graph">
+          <polyline style="" points="0 687 407 621 648 573 865 274 1221 368 1440 95" filter="url(#filter-1)" stroke-dasharray="1,8" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#1D9CFC" id="Path-4" />
+          <polyline style="" points="0 687 126.44316 656.312671 172 584 250 627 445 579 683 604 860 281 1181 261 1440 187" stroke-dasharray="1,8" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#19D3F3" id="Path-4-Copy" />
+          <polyline style="" points="0 613 350 669 656 540 860 281 1181 191 1440 0" filter="url(#filter-2)" stroke-dasharray="1,8" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#E763FA" id="Path-4-Copy-2" />
+          <circle style="" r="16" cy="584" cx="171" opacity="0.049999997" fill="#09FFFF" id="Oval-3-Copy-3" />
+          <circle style="" r="16" cy="601" cx="680" opacity="0.049999997" fill="#09FFFF" id="Oval-3-Copy-5" />
+          <circle style="" r="16" cy="669" cx="347" filter="url(#filter-3)" opacity="0.109999999" fill="#E763FA" id="Oval-3-Copy-7" />
+          <circle style="" r="16" cy="572" cx="647" filter="url(#filter-4)" opacity="0.049999997" fill="#119DFF" id="Oval-3-Copy-6" />
+          <circle style="" r="16" cy="190" cx="1183" filter="url(#filter-5)" opacity="0.1" fill="#E763FA" id="Oval-3-Copy-9" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

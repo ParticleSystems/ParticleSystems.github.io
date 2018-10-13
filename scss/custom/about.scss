@@ -1,0 +1,47 @@
+@import "../_functions";
+@import "../_variables";
+
+
+.main-slider{
+    background-image: url(/img/about-us.jpg);
+
+}
+
+.capabilities{
+    .capability{
+        img{
+            margin: auto;
+            height: 250px;
+            width: auto;
+            display: block;
+            max-width: 100%;
+            max-height: 100%;
+        }
+    }
+}
+
+.best-time{
+	background: $gray-500;
+	min-height: 60vh;
+    overflow: hidden;
+    background: #0052D4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-image: url("/img/line-pattern-bg.svg"),radial-gradient(circle 1499px at 18% 24%, #012033 0%, #002758 90%);
+
+    background-attachment: fixed;
+    background-size: cover;
+
+    h1{
+		position: relative;
+		color: white;
+        text-align: center;
+		text-shadow: 1px 1px 7px $secondary;
+        width: 100%;        
+    }
+    h2{
+       text-align: center;
+        width: 100%;
+        color: $primary-dark-bg;
+    }
+}
